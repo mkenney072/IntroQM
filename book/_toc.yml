@@ -142,7 +142,7 @@ parts:
     - file: problems/midterms_2025.md
       title: "Midterm 2025 Questions"
     - file: problems/midterm3.md
-      title: "Last set of questions
+      title: "Last set of questions"
 
   - caption: Contributing and Using
     chapters:
