@@ -5,4 +5,4 @@ sympy
 autograd
 mpmath
 jupyter_contrib_nbextensions
-jupyter-book
+jupyter-book==1.0.2
