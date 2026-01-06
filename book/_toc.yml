@@ -41,7 +41,7 @@ parts:
         title: Intro to QM video
       - url: https://github.com/QC-Edu/IntroQM/blob/master/presentations/1_IntroQM.pdf
         title: Intro to QM slides+notes
-      - url: https://classroom.github.com/a/z8XA59RO
+      - url:https://classroom.github.com/a/dwsY-nra
         title: "Quiz: Demo w/ GH Classroom"
       - url: https://classroom.github.com/a/BvVWEPyd
         title: "Quiz: QM Intro"
