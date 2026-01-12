@@ -91,7 +91,7 @@ parts:
     - file: ApproximateMethods.ipynb
       title: Approximate Methods
       sections:
-      - url: https://classroom.github.com/a/XDXroWCO
+      - url: https://classroom.github.com/a/g8EWPe8d
         title: "Practice: Tilted P-in-Box"
       - url: https://classroom.github.com/a/944Xl5a8
         title: "Practice: Gaussian Well(s)"
