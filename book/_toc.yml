@@ -67,7 +67,7 @@ parts:
     - file: ParticleInMultiD.ipynb
       title: Particles confined in two and three dimensions
       sections:
-      - url: https://classroom.github.com/a/5LGPHyJD
+      - url: https://classroom.github.com/a/xolaix2b
         title: "Practice: Effective Low-Dimensional Systems"
       - url: https://classroom.github.com/a/BnZQkNi2
         title: "Practice: The Sudden Approximation in 2-D"
